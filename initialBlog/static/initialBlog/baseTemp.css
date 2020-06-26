@@ -1,0 +1,36 @@
+.block1{
+    padding:100px;
+    color: rgb(3, 2, 3);
+    font-style: italic;
+    font-size: 80px;
+    text-align: center;
+}
+
+.block2{
+    width: 800px;
+    font-size: xx-large;
+    box-shadow: 5px 5px 5px 5px rgb(95, 100, 95);
+    border: 2px solid rgb(95, 100, 95);
+    padding: 20px;
+    text-align: center;
+    background-color: slategray;
+  }
+
+.block3{
+    padding-bottom: 100px;
+    font-size: xx-large;
+}
+
+.card{
+    background-color: rgb(102, 134, 75);
+}
+
+.cover{
+    background-color: slategray;
+    background:  url('images/bg.jpg') no-repeat center fixed ;
+    background-size: cover;
+}
+
+
+
+
